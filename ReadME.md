@@ -1,0 +1,3 @@
+# About this program
+This program is a car game program: if the user run the program and type "start" it would print "Car started..." on the terminal and if car has already started and the user type "start", the program will yell at the user that "The car has already started". if the user run the program and type "stop" it would print "Car stopped..." on the terminal and if car has already stopped and the user type "stop", the program will yell at the user that "The car has already stoppedt".
+if the user type "help", the program will display help options and if the user press quit, the program will terminate.
